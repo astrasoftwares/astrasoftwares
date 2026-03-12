@@ -1,5 +1,5 @@
 # 💫 About Us:
-We are Astra softwares<br>We build AI and software Company<br>We are currently exploring  Quantum Machine learning<br>
+We are Astra softwares<br>We build AI and software<br>We are currently exploring  Quantum Machine learning<br>
 
 
 ## 🌐 Socials:
